@@ -1,0 +1,13 @@
+{
+  "name": "Grai",
+  "url": "https://grai.page",
+  "description": "Offline cadence gate that flags AI-writing tells before clients do",
+  "category": "ai",
+  "deal": "30% off your first billing cycle with code BF2026 until Nov 30",
+  "code": "BF2026",
+  "pricing": "subscription",
+  "price": { "regular": 79, "sale": 55.3, "currency": "USD" },
+  "discount": 30,
+  "startDate": "2026-11-24",
+  "endDate": "2026-11-30"
+}
